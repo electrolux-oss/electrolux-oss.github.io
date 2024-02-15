@@ -38,7 +38,10 @@ In order to provide a vendor-neutral solution, we would like to implement a set 
 - Regarding choosing observability platforms, collecting Prometheus metrics is a well-known practice and is supported by most of the observability platforms. It is also free to use Prometheus and Grafana for metrics visualization.
 - Regarding a migration of observability platform, there is much less work since the exporters are running in a user's own infrastructure and exporting the metrics as usual.
 - Regarding the cost analysis process, it fetches the latest cost information from cloud providers. In many cases, users are able to see the cost updates within several hours.
-  
+
+Here is an example that shows a visualization of cost metrics from different cloud providers in one Grafana dashboard (using fake data).
+
+![dashboard-example](./images/cloud-cost-overview-dashboard-example.png)
 
 The following figure shows the overall design of this solution.
 
