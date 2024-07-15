@@ -24,4 +24,5 @@ Via this [GitHub organization](https://github.com/electrolux-oss) we share the p
 
 ## Blogs
 
+- [Reimagining Cloud Cost Management: A Product-Centric Approach at Electrolux](./blogs/reimagining-cloud-cost-management.md)
 - [Enhance Infrastructure Observability with Cost Metrics](./blogs/enhance-infrastructure-observability-with-cost-metrics.md)

@@ -27,7 +27,7 @@ Despite having the best tools tailored to our needs, we realized that building t
 
 The goal was to raise cost awareness rather than merely save money. Over 10 teams joined, and five excelled. We collaborated closely with AWS, who provided deep dives into pricing models, best practices, and specific use case advice. AWS also facilitated a FinOps workshop, introducing tools and methodologies.
 
-Monthly reviews with AWS highlighted optimization opportunities, and our SRE team held monthly check-ins with product teams to address questions. This initiative led to product teams analyzing costs from various perspectives — some focusing on databases, others on logs/metrics, and some optimizing CI/CD pipelines.
+Monthly reviews with AWS highlighted optimization opportunities, and our Platform Engineering team held monthly check-ins with product teams to address questions. This initiative led to product teams analyzing costs from various perspectives — some focusing on databases, others on logs/metrics, and some optimizing CI/CD pipelines.
 
 Key insights gained from this program include understanding vendors’ complex pricing models, essential for decision-making. For instance, data transfer costs vary by region. However, the most significant outcome was the 20% reduction in our monthly cloud costs achieved through this simple initiative.
 
@@ -38,3 +38,5 @@ After presenting our journey at conferences like AWS Summit, Datadog Summit, Cod
 After these two years of dedicated effort and expertise, we open-sourced our internal solution as [InfraWallet](https://prometheus.io/docs/instrumenting/exporters/#finops), our comprehensive cloud cost management solution. By open-sourcing this tool, we hope to empower other organizations to achieve similar success in cloud cost management, fostering a collaborative community dedicated to financial efficiency and transparency.
 
 For more information and to join the InfraWallet community, visit [our GitHub repository](https://github.com/electrolux-oss/infrawallet) and start your journey towards optimized cloud cost management today.
+
+![InfraWallet Logo](./images/iw_logo.png)
