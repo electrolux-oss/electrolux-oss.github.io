@@ -21,6 +21,7 @@ Via this [GitHub organization](https://github.com/electrolux-oss) we share the p
 - [AWS Cost Exporter](https://github.com/electrolux-oss/aws-cost-exporter), exposing AWS cost information as standard Prometheus metrics
 - [Azure Cost Exporter](https://github.com/electrolux-oss/azure-cost-exporter), exposing Azure cost information as standard Prometheus metrics
 - [Kubernetes Cost Exporter](https://github.com/electrolux-oss/kubernetes-cost-exporter), exposing Kubernetes cost information as standard Prometheus metrics
+- [Developer Portal SDK](https://github.com/electrolux-oss/electrolux-group-developer-sdk), the official Python async client library for interacting with the Electrolux Group Developer Portal API.
 
 ## Blogs
 
